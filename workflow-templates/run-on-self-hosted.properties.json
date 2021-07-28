@@ -1,5 +1,10 @@
 {
     "name": "Mediacorp Runner",
     "description": "Action Runner on On-Demand Self-Hosted EC2",
-    "iconName": "run"
+    "iconName": "run",
+    "categories": [
+        "HCL",
+        "YAML",
+        "Dockerfile"
+    ]
 }
